@@ -1,0 +1,1 @@
+In week 6 project we have to convert the text file with csv into numpy arrays.
